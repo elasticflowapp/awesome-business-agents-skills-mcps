@@ -1,5 +1,7 @@
 # Contributing
 
+> **Step 0: ⭐ Star the repo if this list is useful to you.** Stars signal which entries the community values most and help others discover the list.
+
 Pull requests welcome. Edit a markdown file, push, that's it. No build pipeline, no YAML, no scripts.
 
 Reference implementation: [`departments-en/legal.md`](departments-en/legal.md).
