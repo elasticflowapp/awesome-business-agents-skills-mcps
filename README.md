@@ -2,7 +2,7 @@
 
 [![Skills](https://img.shields.io/badge/skills-174-blue?style=flat-square)](#contents)
 [![Departments](https://img.shields.io/badge/departments-6%20live%20%2F%2010-blue?style=flat-square)](#contents)
-[![Last Update](https://img.shields.io/github/last-commit/elasticflow/awesome-business-agents-skills-mcp-list?style=flat-square&label=last%20update)](#contents)
+[![Last Update](https://img.shields.io/github/last-commit/elasticflowapp/awesome-business-agents-skills-mcps?style=flat-square&label=last%20update)](#contents)
 [![License](https://img.shields.io/badge/license-MIT%20%2B%20CC--BY--SA-green?style=flat-square)](LICENSE)
 
 > Hand-curated AI agents, Claude Skills, and MCP (Model Context Protocol) servers for business teams. Organized by **Department → Role → Task → Entry** across Sales, Marketing, Legal, Product, Customer Success, and General. 174 entries hand-picked from real publishers — no AI-bulk-generated content. Compatible with Claude Code, Codex, Gemini, OpenClaw, Hermes, and ChatGPT.
