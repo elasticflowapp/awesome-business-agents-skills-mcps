@@ -1,0 +1,9 @@
+# Internal docs (drafts, design rationale, research notes) — not part of the public list
+internal/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
