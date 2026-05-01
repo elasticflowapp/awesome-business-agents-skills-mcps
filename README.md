@@ -36,9 +36,36 @@ Tokens in the metadata trailer:
 - **Pricing**: `Free` · `Freemium` · `Paid` · `Enterprise`
 - **Trust** _(optional, last token)_: `✅ Verified` · `🔒 SOC2` · `🇪🇺 GDPR-compliant` · `📂 Open source`
 
-**Role emojis** used in `## Quick path by role` blocks inside each department file:
+**Role emojis** used in `## Quick path by role` blocks inside each department file. Click a role to see its description and mapped skills on ElasticFlow Hub:
 
-👔 Executive (VP Sales, General Counsel) · 📄 Document-focused (Contract Manager) · ⚖️ Legal-policy (Corporate Counsel) · 🤝 Account Executive · 🎯 SDR / BDR · 🛠️ RevOps · 🧭 Sales Manager · 👥 Account Manager / CSM · 💼 Sales rep · 📈 Growth Marketer · 🎨 Product Marketer · 📣 Demand Generation · ✍️ Content Marketer · 🔍 SEO Specialist · 🚀 Marketing Lead · 👤 Founder
+**General**
+
+- 👤 [Founder](https://elasticflow.app/hub/skills/roles/general/founder)
+
+**Legal**
+
+- 👔 [General Counsel](https://elasticflow.app/hub/skills/roles/legal/general-counsel)
+- 📄 [Contract Manager](https://elasticflow.app/hub/skills/roles/legal/contract-manager)
+- ⚖️ [Corporate Counsel](https://elasticflow.app/hub/skills/roles/legal/corporate-counsel)
+
+**Marketing**
+
+- 📈 [Growth Marketer](https://elasticflow.app/hub/skills/roles/marketing/growth-marketer)
+- 🎨 [Product Marketer](https://elasticflow.app/hub/skills/roles/marketing/product-marketer)
+- 📣 [Demand Generation Manager](https://elasticflow.app/hub/skills/roles/marketing/demand-generation-manager)
+- ✍️ [Content Marketer](https://elasticflow.app/hub/skills/roles/marketing/content-marketer)
+- 🔍 [SEO Specialist](https://elasticflow.app/hub/skills/roles/marketing/seo-specialist)
+- 🚀 [Marketing Lead](https://elasticflow.app/hub/skills/roles/marketing/marketing-lead)
+
+**Sales**
+
+- 👔 [VP Sales](https://elasticflow.app/hub/skills/roles/sales/vp-sales)
+- 🤝 [Account Executive](https://elasticflow.app/hub/skills/roles/sales/account-executive)
+- 🧭 [Sales Manager](https://elasticflow.app/hub/skills/roles/sales/sales-manager)
+- 🎯 [SDR / BDR](https://elasticflow.app/hub/skills/roles/sales/sdr)
+- 👥 [Account Manager / CSM](https://elasticflow.app/hub/skills/roles/sales/account-manager)
+- 🛠️ [RevOps](https://elasticflow.app/hub/skills/roles/sales/revops-leader)
+- 💼 [Sales rep](https://elasticflow.app/hub/skills/roles/sales/sales-rep)
 
 See [CONTRIBUTING.md](CONTRIBUTING.md#closed-dictionaries) for the full closed-dictionary spec.
 
