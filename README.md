@@ -73,8 +73,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md#closed-dictionaries) for the full closed-d
 
 Most awesome-MCP and awesome-skill lists organize by technology category — databases, file systems, browser automation. That works for developers picking infrastructure. It doesn't work for a sales lead, legal counsel, or marketing manager who arrives looking for an AI tool to solve their problem today.
 
-This list is **organized by business function**: department → role → task → entry. A Contract Manager opens [`departments-en/legal.md`](departments-en/legal.md), finds the "Contract Review" section, picks an entry, installs it. No translation from tech-speak required.
-
 ## Purpose & Audience
 
 **Principles:**
