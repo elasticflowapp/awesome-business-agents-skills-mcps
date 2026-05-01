@@ -36,7 +36,7 @@ Tokens in the metadata trailer:
 - **Pricing**: `Free` · `Freemium` · `Paid` · `Enterprise`
 - **Trust** _(optional, last token)_: `✅ Verified` · `🔒 SOC2` · `🇪🇺 GDPR-compliant` · `📂 Open source`
 
-**Role emojis** used in `## Quick path by role` blocks inside each department file. Click a role to jump to its tasks in the relevant department file:
+**Find your role:**
 
 **General**
 
