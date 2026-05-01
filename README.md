@@ -36,36 +36,36 @@ Tokens in the metadata trailer:
 - **Pricing**: `Free` · `Freemium` · `Paid` · `Enterprise`
 - **Trust** _(optional, last token)_: `✅ Verified` · `🔒 SOC2` · `🇪🇺 GDPR-compliant` · `📂 Open source`
 
-**Role emojis** used in `## Quick path by role` blocks inside each department file. Click a role to see its description and mapped skills on ElasticFlow Hub:
+**Role emojis** used in `## Quick path by role` blocks inside each department file. Click a role to jump to its tasks in the relevant department file:
 
 **General**
 
-- 👤 [Founder](https://elasticflow.app/hub/skills/roles/general/founder)
+- 👤 [Founder](departments-en/general.md#quick-path-by-role)
 
 **Legal**
 
-- 👔 [General Counsel](https://elasticflow.app/hub/skills/roles/legal/general-counsel)
-- 📄 [Contract Manager](https://elasticflow.app/hub/skills/roles/legal/contract-manager)
-- ⚖️ [Corporate Counsel](https://elasticflow.app/hub/skills/roles/legal/corporate-counsel)
+- 👔 [General Counsel](departments-en/legal.md#quick-path-by-role)
+- 📄 [Contract Manager](departments-en/legal.md#quick-path-by-role)
+- ⚖️ [Corporate Counsel](departments-en/legal.md#quick-path-by-role)
 
 **Marketing**
 
-- 📈 [Growth Marketer](https://elasticflow.app/hub/skills/roles/marketing/growth-marketer)
-- 🎨 [Product Marketer](https://elasticflow.app/hub/skills/roles/marketing/product-marketer)
-- 📣 [Demand Generation Manager](https://elasticflow.app/hub/skills/roles/marketing/demand-generation-manager)
-- ✍️ [Content Marketer](https://elasticflow.app/hub/skills/roles/marketing/content-marketer)
-- 🔍 [SEO Specialist](https://elasticflow.app/hub/skills/roles/marketing/seo-specialist)
-- 🚀 [Marketing Lead](https://elasticflow.app/hub/skills/roles/marketing/marketing-lead)
+- 📈 [Growth Marketer](departments-en/marketing.md#quick-path-by-role)
+- 🎨 [Product Marketer](departments-en/marketing.md#quick-path-by-role)
+- 📣 [Demand Generation Manager](departments-en/marketing.md#quick-path-by-role)
+- ✍️ [Content Marketer](departments-en/marketing.md#quick-path-by-role)
+- 🔍 [SEO Specialist](departments-en/marketing.md#quick-path-by-role)
+- 🚀 [Marketing Lead](departments-en/marketing.md#quick-path-by-role)
 
 **Sales**
 
-- 👔 [VP Sales](https://elasticflow.app/hub/skills/roles/sales/vp-sales)
-- 🤝 [Account Executive](https://elasticflow.app/hub/skills/roles/sales/account-executive)
-- 🧭 [Sales Manager](https://elasticflow.app/hub/skills/roles/sales/sales-manager)
-- 🎯 [SDR / BDR](https://elasticflow.app/hub/skills/roles/sales/sdr)
-- 👥 [Account Manager / CSM](https://elasticflow.app/hub/skills/roles/sales/account-manager)
-- 🛠️ [RevOps](https://elasticflow.app/hub/skills/roles/sales/revops-leader)
-- 💼 [Sales rep](https://elasticflow.app/hub/skills/roles/sales/sales-rep)
+- 👔 [VP Sales](departments-en/sales.md#quick-path-by-role)
+- 🤝 [Account Executive](departments-en/sales.md#quick-path-by-role)
+- 🧭 [Sales Manager](departments-en/sales.md#quick-path-by-role)
+- 🎯 [SDR / BDR](departments-en/sales.md#quick-path-by-role)
+- 👥 [Account Manager / CSM](departments-en/sales.md#quick-path-by-role)
+- 🛠️ [RevOps](departments-en/sales.md#quick-path-by-role)
+- 💼 [Sales rep](departments-en/sales.md#quick-path-by-role)
 
 See [CONTRIBUTING.md](CONTRIBUTING.md#closed-dictionaries) for the full closed-dictionary spec.
 
