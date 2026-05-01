@@ -104,6 +104,14 @@ Every entry is hand-picked from a real publisher — no AI-bulk-generated conten
 
 Each entry's name links to its install page on [ElasticFlow Hub](https://elasticflow.app/hub), where you configure and install for your AI client (Claude Code, Codex, Gemini, OpenClaw, Hermes, ChatGPT). The parenthetical `(Source)` link goes to the open-source GitHub repository.
 
+## Community
+
+- 💡 **[Suggest an entry](https://github.com/elasticflowapp/awesome-business-agents-skills-mcps/discussions/categories/ideas)** — propose a new skill, MCP server, or agent without opening a PR.
+- 🙏 **[Ask which tool fits your use case](https://github.com/elasticflowapp/awesome-business-agents-skills-mcps/discussions/categories/q-a)** — describe your situation, get a recommendation from the community.
+- 🙌 **[Show and tell](https://github.com/elasticflowapp/awesome-business-agents-skills-mcps/discussions/categories/show-and-tell)** — share what's working in your stack.
+- 🐛 **[Report a broken link or stale entry](https://github.com/elasticflowapp/awesome-business-agents-skills-mcps/issues/new)** — open an Issue.
+- 📄 **[Contribute via Pull Request](CONTRIBUTING.md)** — add a new entry, task, or department.
+
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for how to:
